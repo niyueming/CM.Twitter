@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CM.OAuth</id>
+    <version>0.0.0.2</version>
+    <title>CM.OAuth</title>
+    <authors>chrisdostert</authors>
+    <owners>chrisdostert</owners>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/chrisdostert/CM.OAuth</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An OAuth 1.0 and 2.0 client library for use in the OAuth server-side authentication flow.</description>
+    <summary>An OAuth 1.0 and 2.0 client library for use in the OAuth server-side authentication flow.</summary>
+    <releaseNotes />
+    <copyright>Copyright  2013</copyright>
+    <language>en-US</language>
+    <tags>OAuth OAuth1.0 OAuth2.0 Facebook Twitter</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Newtonsoft.Json" />
+      </group>
+    </dependencies>
+    <references>
+      <reference file="CM.OAuth.dll" />
+    </references>
+  </metadata>
+</package>

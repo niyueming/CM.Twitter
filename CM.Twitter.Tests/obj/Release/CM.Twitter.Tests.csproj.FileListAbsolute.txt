@@ -1,0 +1,12 @@
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\CM.Twitter.Tests.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\CM.Twitter.Tests.pdb
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\CM.Twitter.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\Newtonsoft.Json.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\CM.OAuth.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\System.Net.Http.Formatting.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\CM.Twitter.pdb
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\Newtonsoft.Json.xml
+E:\Code\CM.Twitter\CM.Twitter.Tests\bin\Release\System.Net.Http.Formatting.xml
+E:\Code\CM.Twitter\CM.Twitter.Tests\obj\Release\CM.Twitter.Tests.csprojResolveAssemblyReference.cache
+E:\Code\CM.Twitter\CM.Twitter.Tests\obj\Release\CM.Twitter.Tests.dll
+E:\Code\CM.Twitter\CM.Twitter.Tests\obj\Release\CM.Twitter.Tests.pdb

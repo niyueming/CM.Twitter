@@ -1,0 +1,4 @@
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\bin\Release\CM.Twitter.NuGetPackager.dll
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\bin\Release\CM.Twitter.NuGetPackager.pdb
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\obj\Release\CM.Twitter.NuGetPackager.dll
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\obj\Release\CM.Twitter.NuGetPackager.pdb

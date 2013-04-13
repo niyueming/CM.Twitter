@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CM.Twitter</id>
+    <version>0.0.0.1</version>
+    <title>CM.Twitter</title>
+    <authors>chrisdostert</authors>
+    <owners>chrisdostert</owners>
+    <description>
+      A C# Twitter Sdk
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      A C# Twitter Sdk
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/chrisdostert/CM.Twitter</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright  2013</copyright>
+    <dependencies>
+        <group targetFramework="net40">
+          <dependency id="Newtonsoft.Json" />
+          <dependency id="CM.OAuth" />
+        </group>
+    </dependencies>
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+    <file src="tools\" target="tools" />
+    <file src="content\" target="content" />
+  </files>
+</package>

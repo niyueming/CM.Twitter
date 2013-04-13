@@ -1,0 +1,5 @@
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\bin\Debug\CM.Twitter.NuGetPackager.dll
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\bin\Debug\CM.Twitter.NuGetPackager.pdb
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\obj\Debug\CM.Twitter.NuGetPackager.csprojResolveAssemblyReference.cache
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\obj\Debug\CM.Twitter.NuGetPackager.dll
+E:\Code\CM.Twitter\CM.Twitter.NuGetPackager\obj\Debug\CM.Twitter.NuGetPackager.pdb
